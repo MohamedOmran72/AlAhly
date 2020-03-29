@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Al Ahly</string>
+    <string name="al_ahly_sporting_club">Al Ahly Sporting Club</string>
+    <string name="description">"        Al Ahly, is an Egyptian sports club based in Cairo. It is known as \"The Club of the Century\" in African football. It is best known for its professional football team that plays in the Egyptian Premier League, the top tier in the Egyptian football league system, and is the most decorated football club in Africa. It was founded on 24 April 1907, as a gathering place for Cairo's Student Unions."</string>
+    <string name="club_branches">Al Ahly Branches</string>
+    <string name="club_branches_name">- Al Jazeera branche\n- Nasr City branch\n- Sheikh Zayed branch</string>
+    <string name="club_media">Al Ahly Media</string>
+    <string name="club_media_name" >- Al Ahly TV\n- Al Ahly Newspaper</string>
+    <string name="club_web">Al Ahly website</string>
+    <string name="club_web_link">www.el-ahly.com</string>
+</resources>
